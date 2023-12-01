@@ -79,7 +79,7 @@ export default function EtaOrg() {
       <p className="text-center text-lg mt-4 p-4 text-gray-800">
         Para conhecer melhor a divisão de atividades proposta pelo Caderno do Educador, você pode rever o Quadro Geral (
         <a
-          href="https://docs.google.com/spreadsheets/d/1DFJAnY_SmwUOelCjAFSarbtot7P0ehB0BptqqehtM30/edit#gid=0"
+          href="https://docs.google.com/spreadsheets/d/198aNX_RrH0pc9Oq_9WXKo1P2w_b0FHZNJl0uEglEI2U/edit#gid=0"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 underline hover:text-blue-700"

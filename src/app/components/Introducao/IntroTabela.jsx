@@ -5,11 +5,11 @@ import { Table, TableHeader, TableColumn, TableBody, TableRow, TableCell, getKey
 const rows = [
   {
     key: "1",
-    name: "1. O que o dinheiro compra? E o que o dinheiro não compra? 2. Uma visita ao mercado.",
-    role: "1. Qual é meu sonho? 2. O que você precisa comprar no mercado? 3. As tentações do mercado... me segura para eu não gastar.",
+    name: "Consumo sustentável e economia circular",
+    role: "1. Como consumir de maneira sustentável? 2. Como não gastar mais do que recebemos?",
     status: "I - Diagnóstico. II - Conteúdos e habilidades. III - Planejamento.",
-    location: "Sistema de numeração decimal. Operações com números naturais / divisão euclidiana. Propriedades da igualdade. Problemas sobre medidas envolvendo grandezas.",
-    department: "Ferramentas Google. Mapa mental. Infográfico.",
+    location: "Porcentagens. / Notação científica. / Volume de bloco retangular e medidas de capacidade. / Princípio multiplicativo da contagem.",
+    department: "Ferramentas Google. Mapa conceitual.",
   },
 ];
 

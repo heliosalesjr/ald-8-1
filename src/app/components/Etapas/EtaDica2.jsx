@@ -5,7 +5,7 @@ function EtaDica2() {
           <p>
           Cada uma dessas etapas abrange itens específicos do PPDA, assim como conteúdos e partes do desenvolvimento do trabalho (encontradas aqui, no {' '}
             <a
-              href="https://docs.google.com/spreadsheets/d/1DFJAnY_SmwUOelCjAFSarbtot7P0ehB0BptqqehtM30/edit#gid=0"
+              href="https://docs.google.com/spreadsheets/d/198aNX_RrH0pc9Oq_9WXKo1P2w_b0FHZNJl0uEglEI2U/edit#gid=0"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-100 hover:text-blue-200 underline"

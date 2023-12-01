@@ -5,7 +5,7 @@ function BaixeLivros() {
   return (
     <>
       <motion.div 
-      className="bg-gradient-to-tl from-primary to-primary-focus"
+      className="bg-gradient-to-br from-primary to-primary-focus"
       initial={{ opacity: 0, scale: 0.5 }}
       whileInView={{ opacity: 1, scale: 1 }}
         >
@@ -23,7 +23,7 @@ function BaixeLivros() {
             */}
             <div className="flex flex-col sm:flex-row space-y-4 lg:flex lg:flex-row md:space-y-0">
               <a
-                href="https://www.flipsnack.com/7E8DB9BBDC9/caderno_educador_6-_ano_/full-view.html"
+                href="https://www.flipsnack.com/7E8DB9BBDC9/livro_8_educador/full-view.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-customizado btn-outline mx-4"
@@ -31,7 +31,7 @@ function BaixeLivros() {
                 Caderno do Educador
               </a>
               <a
-                href="https://www.flipsnack.com/7E8DB9BBDC9/livro_ed_financeira_estudante_6-_ano/full-view.html"
+                href="https://www.flipsnack.com/7E8DB9BBDC9/livro_estudante_8-_ano/full-view.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-customizado btn-outline mx-4"
@@ -43,8 +43,8 @@ function BaixeLivros() {
           <motion.div className="grid grid-cols-2 gap-4 mt-8"
             initial={{ opacity: 0, scale: 0.5 }}
             whileInView={{ opacity: 1, scale: 1 }}>
-            <img className="md:w-full" src="images/6o.png" alt="office content 1" />
-            <img className="mt-4 w-full lg:mt-10 " src="images/6o_educador.png" alt="office content 2" />
+            <img className="md:w-full" src="images/8aluno.png" alt="office content 1" />
+            <img className="mt-4 w-full lg:mt-10 " src="images/8educador.png" alt="office content 2" />
           </motion.div>
         </div>
       </motion.div>
