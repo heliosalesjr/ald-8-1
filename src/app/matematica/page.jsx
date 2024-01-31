@@ -20,9 +20,10 @@ function Matematica() {
         <MatIntro />
         <MatDiferenca />
         <MatSugestao />
-        <MatSistemaNumeracao />
         <MatSistemaMonetario />
-        <MatOperacoes />
+        <MatSistemaNumeracao />
+        
+        
         <MatPropriedades />
         <Divider />
         <MatButton />

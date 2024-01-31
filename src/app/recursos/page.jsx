@@ -20,8 +20,8 @@ function Recursos() {
         <RecLembre/>
         <RecMapaMental/>
         <RecSugestao  />
-        <RecFiqueSabendo />
-        <RecInfografico/>
+        <RecFiqueSabendo/>
+        
         
     
     </>

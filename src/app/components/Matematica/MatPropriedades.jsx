@@ -19,7 +19,7 @@ function MatPropriedades() {
                         href="https://jamboard.google.com/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="hover:underline"
+                        className="underline"
                       >
                         Google Jamboard
                       </a>{" "}

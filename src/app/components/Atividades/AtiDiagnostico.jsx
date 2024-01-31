@@ -10,13 +10,13 @@ function AtiDiagnostico() {
             <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:mb-0 lg:w-7/12 lg:order-2 ">
               <div className="flex h-full items-center rounded-lg  p-6 text-center   lg:pl-12 lg:text-left">
                 <div className="lg:pl-12">
-                  <h2 className="font-bold text-2xl md:text-5xl sm:text-3xl text-gray-700 py-4">
+                  <h2 className="font-bold text-2xl md:text-4xl sm:text-3xl text-slate-700 py-4">
                     Diagnósticos para o professor
                   </h2>
                   <p className="text-lg mb-6 pb-2 lg:pb-0">
                     Talvez você já conheça bem a sua turma. Mesmo assim, o diagnóstico aqui sugerido poderá trazer indicadores importantes para traçar o perfil dos estudantes com mais segurança.
                   </p>
-                  <h2 className="mb-6 text-2xl md:text-3xl sm:text-2xl font-bold text-gray-700">
+                  <h2 className="mb-6 text-2xl md:text-3xl sm:text-2xl font-bold text-slate-700">
                     Diagnóstico 1: Perfil da turma
                   </h2>
                   <p className="text-lg mb-6 pb-2 lg:pb-0">
