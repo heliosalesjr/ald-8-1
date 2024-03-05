@@ -10,6 +10,7 @@ import Divider from "./components/Divider"
 import BaixeLivros from "./components/BaixeLivros"
 import MainButton from "./components/MainButton"
 import MainProposta from "./components/MainProposta"
+import HeroBento from "./components/HeroBento"
 
 
 
@@ -17,7 +18,8 @@ export default function Home() {
   return (
     <>
       
-      <HeroSection />
+      <HeroBento />
+      <Divider className="max-w-xl mx-auto" />
       <SectionOne />
       <Divider />
       <CardList />
