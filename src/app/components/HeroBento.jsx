@@ -5,11 +5,11 @@ function HeroBento() {
     <div className="flex h-[80vh] gap-4 max-w-7xl mx-auto px-4 pt-4">
       <div className="flex-1">
         <div className="relative h-3/4 bg-blue-200 rounded-xl">
-          <h1 className="absolute text-5xl pr-8 font-semibold text-slate-800 lg:text-6xl  pt-16 px-12">
+          <h1 className="text-5xl pr-8 font-semibold text-slate-800 lg:text-6xl  pt-16 px-12">
               Aprendendo a Lidar com Dinheiro
           </h1>
 
-          <p className="absolute bottom-0 text-slate-950 p-12 lg:pr-20">
+          <p className="text-slate-950 p-12 lg:pr-20">
             Olá, professor e professora! Seja bem-vindo e bem-vinda ao site de apoio da coleção Aprendendo a Lidar com Dinheiro: Educação Financeira. Nesta seção, há informações sobre o que são os sites “Aprendendo a Lidar com Dinheiro” e como estão organizados, facilitando a navegação e consulta. Vamos conhecê-los?
           </p>
 
@@ -24,7 +24,7 @@ function HeroBento() {
       <div className="hidden md:block flex-1 relative mb-4 bg-primary-focus rounded-xl">
         {/* Div para a faixa transparente no topo 
         <div className="absolute top-0 left-0 w-full h-8 bg-white"></div>*/}
-        <div className="absolute inset-0 " style={{backgroundImage: 'url(images/maolivro6.png)', backgroundSize: 'cover', backgroundPosition: 'center'}}></div>
+        <div className="absolute inset-0 " style={{backgroundImage: 'url(images/maolivroy.png)', backgroundSize: 'cover', backgroundPosition: 'top'}}></div>
       </div>
     </div>
   )
